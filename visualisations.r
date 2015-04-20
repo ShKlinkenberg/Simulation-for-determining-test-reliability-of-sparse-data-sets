@@ -4,7 +4,7 @@
 library('xlsx')
 
 ## Read data from xlsx file
-results <- read.xlsx("results-final2.xlsx", sheetName = "Sheet1")
+results <- read.xlsx("results.xlsx", sheetName = "Sheet1")
 
 ## Create variables needed for visualisation
 
