@@ -455,4 +455,4 @@ for (n.j in N.j) {            # Loop through number of subjects
 }         # end nember of students
 
 # Write results to file
-write.xlsx(results, file="results-final2.xlsx", sheetName = "Sheet1", row.names = F)
+write.xlsx(results, file="results.xlsx", sheetName = "Sheet1", row.names = F)
