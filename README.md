@@ -4,7 +4,7 @@ This script simulates binary responses to K items for N subjects. To run the sim
 
 ## Step 1
 
-Instal the latest version of [R](http://cran.r-project.org).
+Install the latest version of [R](http://cran.r-project.org).
 
 ## Step 2
 
